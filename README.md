@@ -1,6 +1,6 @@
 # nodeExpress
 
-## **1)npm install** - use in oppend directory
+## **1) npm install** - use in oppend directory
 
 
 
